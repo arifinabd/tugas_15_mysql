@@ -1,0 +1,27 @@
+127.0.0.1/niomic/demography/		http://localhost/phpmyadmin/index.php?route=/sql&db=niomic&table=demography&sql_query=SELECT+%2A+FROM+%60demography%60++%0AORDER+BY+%60demography%60.%60nama%60+ASC&sql_signature=d840334f745518b301d1895285f64121f4d3e3e4eda49ea24d5d36a1e0fc82ed&session_max_rows=25&is_browse_distinct=0
+
+   Menampilkan baris 0 - 16 (total 17, Pencarian dilakukan dalam 0,0017 detik.) [nama: ACEH... - SUMATRA UTARA ...]
+
+
+SELECT * FROM `demography`  
+ORDER BY `demography`.`nama` ASC
+
+
+kodeBPS	nama   	ibukota	populasi	luas	pulau	
+11	Aceh	Banda Aceh 	4494410	56500.51	Sumatera	
+36	Banten	 Serang 	10632166	9018.64	Jawa	
+17	Bengkulu 	Bengkulu 	1715518	19795.15	Sumatera	
+34	Daerah Istimewa Yogyakarta 	Yogyakarta 	3457491	3133.15	Jawa	
+31	Dearah Khusus Ibukota Jakarta 	Jakarta Pusat 	9607787	740.29	Jawa	
+15	Jambi 	Jambi 	3092265	45348.49	 Sumatera	
+32	Jawa Barat 	Bandung 	43053732	36925.05	Jawa	
+33	Jawa Tengah 	Semarang 	32382657	32799.71	Jawa	
+35	Jawa Timur 	Surabaya 	37476757	46689.64	Jawa	
+19	Kepulauan Bangka Belitung 	Pangkal Pinang 	1223296	16424.14	Sumatera	
+21	Kepulauan Riau 	Tanjung Pinang 	1679163	8084.01	Sumatera	
+18	Lampung 	Bandar Lampung 	7608405	37735.15	Sumatera	
+14	Riau 	Pekanbaru 	5538367	87844.23	Sumatera	
+71	Sulawesi Utara 	Manado	2270596	13930.73	Sulawesi	
+16	Sumatera Selatan 	Palembang 	7450394	60302.54	Sumatera	
+13	Sumatra Barat 	Padang 	4846909	42224.65	Sumatera	
+12	Sumatra Utara 	Medan	12982204	72427.81	Sumatera	
